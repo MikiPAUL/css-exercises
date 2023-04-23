@@ -1,0 +1,1 @@
+ ![output image](foundations\css-methods\output.png)
